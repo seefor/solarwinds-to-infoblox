@@ -1,5 +1,5 @@
 # solarwinds-to-infoblox
-Convert CSV exports from Solarwinds to Infoblox CSV import
+Convert CSV exports from Solarwinds to Infoblox CSV import for Networks
 
 ## For Networks Only
 You will need to export just the following fileds:
