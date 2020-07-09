@@ -1,0 +1,257 @@
+IP Address,MAC Address,Hostname,DHCP Client Name,System Name,Description,Contact,System Location,Vendor,Machine Type,Comments,Response Time,Last Boot Time,Last Synchronization,Status,System Object ID,Type,Skip Scan,Alias,Lease Expiration,Dual Stack IPv6 Address,Subnet Display Name,Subnet Address,Subnet CIDR,Subnet Mask
+10.10.12.0,,,,,,,,,,Subnet Address,,,,Reserved,,Static,Yes,,,,CO-9thFlr-DATA-101,10.10.12.0,24,255.255.255.0
+10.10.12.1,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.1,24,255.255.255.0
+10.10.12.2,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.2,24,255.255.255.0
+10.10.12.3,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.3,24,255.255.255.0
+10.10.12.4,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.4,24,255.255.255.0
+10.10.12.5,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.5,24,255.255.255.0
+10.10.12.6,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.6,24,255.255.255.0
+10.10.12.7,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.7,24,255.255.255.0
+10.10.12.8,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.8,24,255.255.255.0
+10.10.12.9,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.9,24,255.255.255.0
+10.10.12.10,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.10,24,255.255.255.0
+10.10.12.11,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.11,24,255.255.255.0
+10.10.12.12,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.12,24,255.255.255.0
+10.10.12.13,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.13,24,255.255.255.0
+10.10.12.14,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.14,24,255.255.255.0
+10.10.12.15,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.15,24,255.255.255.0
+10.10.12.16,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.16,24,255.255.255.0
+10.10.12.17,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.17,24,255.255.255.0
+10.10.12.18,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.18,24,255.255.255.0
+10.10.12.19,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.19,24,255.255.255.0
+10.10.12.20,,,,,,,,,,,,,,Available,,Static,Yes,,,,CO-9thFlr-DATA-101,10.10.12.20,24,255.255.255.0
+10.10.12.21,,,,,,,,,,Printers moved,,,1/11/19 15:43,Used,,Static,Yes,,,,CO-9thFlr-DATA-101,10.10.12.21,24,255.255.255.0
+10.10.12.22,,,,,,,,,,Printers moved,,,1/11/19 15:53,Used,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.22,24,255.255.255.0
+10.10.12.23,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.23,24,255.255.255.0
+10.10.12.24,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.24,24,255.255.255.0
+10.10.12.25,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.25,24,255.255.255.0
+10.10.12.26,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.26,24,255.255.255.0
+10.10.12.27,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.27,24,255.255.255.0
+10.10.12.28,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.28,24,255.255.255.0
+10.10.12.29,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.29,24,255.255.255.0
+10.10.12.30,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.30,24,255.255.255.0
+10.10.12.31,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.31,24,255.255.255.0
+10.10.12.32,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.32,24,255.255.255.0
+10.10.12.33,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.33,24,255.255.255.0
+10.10.12.34,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.34,24,255.255.255.0
+10.10.12.35,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.35,24,255.255.255.0
+10.10.12.36,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.36,24,255.255.255.0
+10.10.12.37,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.37,24,255.255.255.0
+10.10.12.38,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.38,24,255.255.255.0
+10.10.12.39,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.39,24,255.255.255.0
+10.10.12.40,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.40,24,255.255.255.0
+10.10.12.41,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.41,24,255.255.255.0
+10.10.12.42,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.42,24,255.255.255.0
+10.10.12.43,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.43,24,255.255.255.0
+10.10.12.44,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.44,24,255.255.255.0
+10.10.12.45,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.45,24,255.255.255.0
+10.10.12.46,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.46,24,255.255.255.0
+10.10.12.47,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.47,24,255.255.255.0
+10.10.12.48,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.48,24,255.255.255.0
+10.10.12.49,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.49,24,255.255.255.0
+10.10.12.50,FC-4D-D4-41-79-D9,,AT-7781.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 1:28,,CO-9thFlr-DATA-101,10.10.12.50,24,255.255.255.0
+10.10.12.51,FC-4D-D4-41-74-00,,AT7755.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:00,,CO-9thFlr-DATA-101,10.10.12.51,24,255.255.255.0
+10.10.12.52,94-C6-91-79-2F-63,,AT4057.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:16,,CO-9thFlr-DATA-101,10.10.12.52,24,255.255.255.0
+10.10.12.53,50-7B-9D-61-F0-A3,,AT6880.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:59,,CO-9thFlr-DATA-101,10.10.12.53,24,255.255.255.0
+10.10.12.54,E8-9A-8F-60-C1-D9,,AT-7359.sifbaksh.com,,,,,Quanta Computer Inc.,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 1:28,,CO-9thFlr-DATA-101,10.10.12.54,24,255.255.255.0
+10.10.12.55,FC-4D-D4-41-74-ED,,AT-7746.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:02,,CO-9thFlr-DATA-101,10.10.12.55,24,255.255.255.0
+10.10.12.56,D4-3D-7E-58-72-AA,,AT7453.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 20:02,,CO-9thFlr-DATA-101,10.10.12.56,24,255.255.255.0
+10.10.12.57,94-C6-91-79-2F-6F,,AT4068.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:36,,CO-9thFlr-DATA-101,10.10.12.57,24,255.255.255.0
+10.10.12.58,FC-4D-D4-41-73-8D,,AT-7802.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 11:57,,CO-9thFlr-DATA-101,10.10.12.58,24,255.255.255.0
+10.10.12.59,8C-89-A5-1F-E7-FF,,AT6750.sifbaksh.com,,,,,"Micro-Star INT'L CO., LTD",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:13,,CO-9thFlr-DATA-101,10.10.12.59,24,255.255.255.0
+10.10.12.60,D4-3D-7E-30-C4-DE,,AT7596.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 21:04,,CO-9thFlr-DATA-101,10.10.12.60,24,255.255.255.0
+10.10.12.61,E8-9A-8F-60-79-FE,,AT--7349.sifbaksh.com,,,,,Quanta Computer Inc.,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 11:58,,CO-9thFlr-DATA-101,10.10.12.61,24,255.255.255.0
+10.10.12.62,94-C6-91-79-2F-85,,AT8003.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 0:47,,CO-9thFlr-DATA-101,10.10.12.62,24,255.255.255.0
+10.10.12.63,FC-4D-D4-41-95-5B,,AT-7760.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:17,,CO-9thFlr-DATA-101,10.10.12.63,24,255.255.255.0
+10.10.12.64,FC-4D-D4-41-79-7D,,AT7793.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 1:29,,CO-9thFlr-DATA-101,10.10.12.64,24,255.255.255.0
+10.10.12.65,FC-4D-D4-41-72-C0,,AT-7788.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:29,,CO-9thFlr-DATA-101,10.10.12.65,24,255.255.255.0
+10.10.12.66,FC-4D-D4-41-73-8F,,AT7791.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:34,,CO-9thFlr-DATA-101,10.10.12.66,24,255.255.255.0
+10.10.12.67,D4-3D-7E-30-BB-3A,,AT-7561.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:40,,CO-9thFlr-DATA-101,10.10.12.67,24,255.255.255.0
+10.10.12.68,28-D2-44-3E-5F-24,,AT7987.sifbaksh.com,,,,,"LCFC(HeFei) Electronics Technology Co., Ltd.",,,,,3/8/19 13:17,Used,,Dynamic,No,,3/8/19 13:07,,CO-9thFlr-DATA-101,10.10.12.68,24,255.255.255.0
+10.10.12.69,54-E1-AD-14-1F-C1,,AT7090.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 15:03,,CO-9thFlr-DATA-101,10.10.12.69,24,255.255.255.0
+10.10.12.70,FC-4D-D4-41-74-A2,,AT-7772.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 15:28,,CO-9thFlr-DATA-101,10.10.12.70,24,255.255.255.0
+10.10.12.71,8C-16-45-6F-C9-B3,,AT8014.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 16:30,,CO-9thFlr-DATA-101,10.10.12.71,24,255.255.255.0
+10.10.12.72,00-21-CC-BE-E5-C5,,AT6632.sifbaksh.com,,,,,Flextronics International,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/8/19 21:12,,CO-9thFlr-DATA-101,10.10.12.72,24,255.255.255.0
+10.10.12.73,D4-3D-7E-30-B8-64,,AT7374.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 11:36,,CO-9thFlr-DATA-101,10.10.12.73,24,255.255.255.0
+10.10.12.74,D4-3D-7E-58-72-B7,,AT-7362.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 11:01,,CO-9thFlr-DATA-101,10.10.12.74,24,255.255.255.0
+10.10.12.75,04-7D-7B-B9-54-6F,,AT-6737.sifbaksh.com,,,,,Quanta Computer Inc.,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:37,,CO-9thFlr-DATA-101,10.10.12.75,24,255.255.255.0
+10.10.12.76,28-D2-44-4A-CB-30,,AT7823.sifbaksh.com,,,,,"LCFC(HeFei) Electronics Technology Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 11:57,,CO-9thFlr-DATA-101,10.10.12.76,24,255.255.255.0
+10.10.12.77,94-C6-91-7A-4B-33,,AT4028.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 17:48,,CO-9thFlr-DATA-101,10.10.12.77,24,255.255.255.0
+10.10.12.78,FC-4D-D4-41-79-E0,,AT7747.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:27,,CO-9thFlr-DATA-101,10.10.12.78,24,255.255.255.0
+10.10.12.79,8C-16-45-03-28-71,,AT3331.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:44,,CO-9thFlr-DATA-101,10.10.12.79,24,255.255.255.0
+10.10.12.80,D4-3D-7E-30-BB-20,,AT7598.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 11:56,,CO-9thFlr-DATA-101,10.10.12.80,24,255.255.255.0
+10.10.12.81,D4-3D-7E-58-72-9B,,AT7564.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 1:29,,CO-9thFlr-DATA-101,10.10.12.81,24,255.255.255.0
+10.10.12.82,04-7D-7B-B2-0C-91,,AT6662.sifbaksh.com,,,,,Quanta Computer Inc.,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:46,,CO-9thFlr-DATA-101,10.10.12.82,24,255.255.255.0
+10.10.12.83,D4-3D-7E-58-72-E9,,AT7589.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:08,,CO-9thFlr-DATA-101,10.10.12.83,24,255.255.255.0
+10.10.12.84,F0-DE-F1-1B-1B-B5,,AT6406.sifbaksh.com,,,,,Wistron InfoComm (Kunshan)Co,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 15:50,,CO-9thFlr-DATA-101,10.10.12.84,24,255.255.255.0
+10.10.12.85,04-7D-7B-B9-50-7C,,AT6706.sifbaksh.com,,,,,Quanta Computer Inc.,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:00,,CO-9thFlr-DATA-101,10.10.12.85,24,255.255.255.0
+10.10.12.86,D4-3D-7E-58-72-60,,AT7455.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 17:13,,CO-9thFlr-DATA-101,10.10.12.86,24,255.255.255.0
+10.10.12.87,28-D2-44-4A-C9-99,,AT--7724.sifbaksh.com,,,,,"LCFC(HeFei) Electronics Technology Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/12/19 15:03,,CO-9thFlr-DATA-101,10.10.12.87,24,255.255.255.0
+10.10.12.88,8C-89-A5-1F-C6-B9,,AT6771.sifbaksh.com,,,,,"Micro-Star INT'L CO., LTD",,,,,3/8/19 13:17,Used,,Dynamic,No,,3/8/19 13:23,,CO-9thFlr-DATA-101,10.10.12.88,24,255.255.255.0
+10.10.12.89,FC-4D-D4-41-74-70,,AT7948.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:04,,CO-9thFlr-DATA-101,10.10.12.89,24,255.255.255.0
+10.10.12.90,D4-3D-7E-30-BB-7F,,AT7433.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 2:08,,CO-9thFlr-DATA-101,10.10.12.90,24,255.255.255.0
+10.10.12.91,FC-4D-D4-41-74-C0,,AT7763.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 1:29,,CO-9thFlr-DATA-101,10.10.12.91,24,255.255.255.0
+10.10.12.92,D4-3D-7E-30-B9-CB,,AT-7594.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:13,,CO-9thFlr-DATA-101,10.10.12.92,24,255.255.255.0
+10.10.12.93,D4-3D-7E-58-73-7B,,AT-7458.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 13:12,,CO-9thFlr-DATA-101,10.10.12.93,24,255.255.255.0
+10.10.12.94,00-10-60-E2-DE-AB,,FPHX.am.bax.global,,,,,"BILLIONTON SYSTEMS, INC.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 6:31,,CO-9thFlr-DATA-101,10.10.12.94,24,255.255.255.0
+10.10.12.95,D4-3D-7E-58-73-99,,AT7428.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:09,,CO-9thFlr-DATA-101,10.10.12.95,24,255.255.255.0
+10.10.12.96,D4-3D-7E-58-6B-A7,,AT-7597.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:31,,CO-9thFlr-DATA-101,10.10.12.96,24,255.255.255.0
+10.10.12.97,78-5D-C8-F0-76-E6,,LGwebOSTV.am.bax.global,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 16:30,,CO-9thFlr-DATA-101,10.10.12.97,24,255.255.255.0
+10.10.12.98,FC-4D-D4-41-74-5D,,AT-7782.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 14:36,,CO-9thFlr-DATA-101,10.10.12.98,24,255.255.255.0
+10.10.12.99,FC-4D-D4-41-74-80,,AT7926.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 2:35,,CO-9thFlr-DATA-101,10.10.12.99,24,255.255.255.0
+10.10.12.100,30-9C-23-FA-ED-57,,AT4044.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 5:06,,CO-9thFlr-DATA-101,10.10.12.100,24,255.255.255.0
+10.10.12.101,00-50-B6-CC-76-91,,AT6874.sifbaksh.com,,,,,"GOOD WAY IND. CO., LTD.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:59,,CO-9thFlr-DATA-101,10.10.12.101,24,255.255.255.0
+10.10.12.102,D4-3D-7E-30-B8-41,,AT-7562.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 0:16,,CO-9thFlr-DATA-101,10.10.12.102,24,255.255.255.0
+10.10.12.103,8C-89-A5-1F-C5-77,,AT6757.sifbaksh.com,,,,,"Micro-Star INT'L CO., LTD",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:25,,CO-9thFlr-DATA-101,10.10.12.103,24,255.255.255.0
+10.10.12.104,94-C6-91-7A-23-A3,,AT4015.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:20,,CO-9thFlr-DATA-101,10.10.12.104,24,255.255.255.0
+10.10.12.105,94-C6-91-7A-4C-32,,AT4032.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 17:07,,CO-9thFlr-DATA-101,10.10.12.105,24,255.255.255.0
+10.10.12.106,50-7B-9D-66-C6-25,,AT-6879.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 15:04,,CO-9thFlr-DATA-101,10.10.12.106,24,255.255.255.0
+10.10.12.107,D4-3D-7E-30-B9-B5,,AT-7489.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 1:29,,CO-9thFlr-DATA-101,10.10.12.107,24,255.255.255.0
+10.10.12.108,54-E1-AD-7A-06-C5,,AT7125.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:13,,CO-9thFlr-DATA-101,10.10.12.108,24,255.255.255.0
+10.10.12.109,E8-6A-64-29-83-82,,AT4024.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:15,,CO-9thFlr-DATA-101,10.10.12.109,24,255.255.255.0
+10.10.12.110,50-7B-9D-61-F0-94,,AT6975.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:11,,CO-9thFlr-DATA-101,10.10.12.110,24,255.255.255.0
+10.10.12.111,28-D2-44-3E-56-A6,,AT-7980.sifbaksh.com,,,,,"LCFC(HeFei) Electronics Technology Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:52,,CO-9thFlr-DATA-101,10.10.12.111,24,255.255.255.0
+10.10.12.112,54-E1-AD-A7-81-C8,,AT7141.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 17:07,,CO-9thFlr-DATA-101,10.10.12.112,24,255.255.255.0
+10.10.12.113,94-C6-91-7A-49-6D,,AT4001.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 20:18,,CO-9thFlr-DATA-101,10.10.12.113,24,255.255.255.0
+10.10.12.114,D4-3D-7E-58-72-FF,,AT-7463.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 11:57,,CO-9thFlr-DATA-101,10.10.12.114,24,255.255.255.0
+10.10.12.115,94-C6-91-7A-28-63,,AT-8014.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 21:04,,CO-9thFlr-DATA-101,10.10.12.115,24,255.255.255.0
+10.10.12.116,04-7D-7B-6B-4E-A4,,AT-6697.sifbaksh.com,,,,,Quanta Computer Inc.,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 16:57,,CO-9thFlr-DATA-101,10.10.12.116,24,255.255.255.0
+10.10.12.117,D4-3D-7E-C1-11-94,,AT7656.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:00,,CO-9thFlr-DATA-101,10.10.12.117,24,255.255.255.0
+10.10.12.118,D4-3D-7E-30-BB-39,,AT7490.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 16:45,,CO-9thFlr-DATA-101,10.10.12.118,24,255.255.255.0
+10.10.12.119,E8-9A-8F-4D-52-04,,AT7325.sifbaksh.com,,,,,Quanta Computer Inc.,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 15:21,,CO-9thFlr-DATA-101,10.10.12.119,24,255.255.255.0
+10.10.12.120,94-C6-91-7A-28-61,,AT4010.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 9:06,,CO-9thFlr-DATA-101,10.10.12.120,24,255.255.255.0
+10.10.12.121,D4-3D-7E-C0-EA-0A,,AT-7638.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:52,,CO-9thFlr-DATA-101,10.10.12.121,24,255.255.255.0
+10.10.12.122,FC-4D-D4-41-93-99,,AT7809.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 13:41,,CO-9thFlr-DATA-101,10.10.12.122,24,255.255.255.0
+10.10.12.123,94-C6-91-7A-4B-7B,,AT4029.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 21:11,,CO-9thFlr-DATA-101,10.10.12.123,24,255.255.255.0
+10.10.12.124,E8-9A-8F-9D-63-08,,AT--6494.sifbaksh.com,,,,,Quanta Computer Inc.,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 15:03,,CO-9thFlr-DATA-101,10.10.12.124,24,255.255.255.0
+10.10.12.125,30-9C-23-FA-ED-4F,,AT4047.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 0:13,,CO-9thFlr-DATA-101,10.10.12.125,24,255.255.255.0
+10.10.12.126,D4-3D-7E-30-BB-36,,AT7592.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 16:37,,CO-9thFlr-DATA-101,10.10.12.126,24,255.255.255.0
+10.10.12.127,94-C6-91-7A-23-B2,,AT4009.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:52,,CO-9thFlr-DATA-101,10.10.12.127,24,255.255.255.0
+10.10.12.128,FC-4D-D4-41-77-FD,,AT7803.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 1:28,,CO-9thFlr-DATA-101,10.10.12.128,24,255.255.255.0
+10.10.12.129,30-9C-23-FA-ED-51,,AT4046.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 5:46,,CO-9thFlr-DATA-101,10.10.12.129,24,255.255.255.0
+10.10.12.130,30-9C-23-FA-ED-ED,,AT4043.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 0:54,,CO-9thFlr-DATA-101,10.10.12.130,24,255.255.255.0
+10.10.12.131,FC-4D-D4-41-74-F5,,AT7774.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:06,,CO-9thFlr-DATA-101,10.10.12.131,24,255.255.255.0
+10.10.12.132,94-C6-91-7A-4C-31,,AT4042.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 0:17,,CO-9thFlr-DATA-101,10.10.12.132,24,255.255.255.0
+10.10.12.133,54-E1-AD-A1-59-79,,AT7116.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:41,,CO-9thFlr-DATA-101,10.10.12.133,24,255.255.255.0
+10.10.12.134,D4-3D-7E-58-73-10,,AT-7461.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 12:10,,CO-9thFlr-DATA-101,10.10.12.134,24,255.255.255.0
+10.10.12.135,8C-89-A5-1F-C5-5E,,AT--7426.sifbaksh.com,,,,,"Micro-Star INT'L CO., LTD",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 2:22,,CO-9thFlr-DATA-101,10.10.12.135,24,255.255.255.0
+10.10.12.136,30-9C-23-FA-ED-5F,,AT4048.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/13/19 1:45,,CO-9thFlr-DATA-101,10.10.12.136,24,255.255.255.0
+10.10.12.137,30-9C-23-FA-F0-07,,AT4045.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 5:17,,CO-9thFlr-DATA-101,10.10.12.137,24,255.255.255.0
+10.10.12.138,FC-4D-D4-41-74-83,,AT7779.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,3/8/19 17:17,Used,,Dynamic,No,,3/12/19 13:39,,CO-9thFlr-DATA-101,10.10.12.138,24,255.255.255.0
+10.10.12.139,54-E1-AD-55-22-41,,AT7108.sifbaksh.com,,,,,Unknown,,,,,7/4/18 5:52,Used,,Dynamic,No,,7/4/18 5:43,,CO-9thFlr-DATA-101,10.10.12.139,24,255.255.255.0
+10.10.12.140,54-E1-AD-A1-5A-45,,AT7117.sifbaksh.com,,,,,Unknown,,,,,8/1/18 8:35,Used,,Dynamic,No,,8/1/18 7:32,,CO-9thFlr-DATA-101,10.10.12.140,24,255.255.255.0
+10.10.12.141,FC-4D-D4-41-98-26,,AT7768.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,7/27/18 8:39,Used,,Dynamic,No,,7/27/18 8:27,,CO-9thFlr-DATA-101,10.10.12.141,24,255.255.255.0
+10.10.12.142,FC-4D-D4-41-74-C0,,AT7763.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,12/28/18 3:25,Used,,Dynamic,No,,12/28/18 5:06,,CO-9thFlr-DATA-101,10.10.12.142,24,255.255.255.0
+10.10.12.143,54-EE-75-A6-6E-0A,,AT7048.sifbaksh.com,,,,,"Wistron InfoComm(Kunshan)Co.,Ltd.",,,,,3/16/18 14:10,Used,,Dynamic,No,,3/16/18 8:12,,CO-9thFlr-DATA-101,10.10.12.143,24,255.255.255.0
+10.10.12.144,54-E1-AD-55-23-38,,AT7110.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/12/19 20:00,,CO-9thFlr-DATA-101,10.10.12.144,24,255.255.255.0
+10.10.12.145,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.145,24,255.255.255.0
+10.10.12.146,94-C6-91-79-2F-58,,AT8000.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:32,,CO-9thFlr-DATA-101,10.10.12.146,24,255.255.255.0
+10.10.12.147,8C-16-45-47-61-47,,AT8501.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 14:06,,CO-9thFlr-DATA-101,10.10.12.147,24,255.255.255.0
+10.10.12.148,94-C6-91-79-2F-80,,AT8001.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/15/19 13:23,,CO-9thFlr-DATA-101,10.10.12.148,24,255.255.255.0
+10.10.12.149,94-C6-91-79-2F-64,,AT8002.sifbaksh.com,,,,,Unknown,,,,,3/8/19 17:17,Used,,Dynamic,No,,3/14/19 0:15,,CO-9thFlr-DATA-101,10.10.12.149,24,255.255.255.0
+10.10.12.150,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.150,24,255.255.255.0
+10.10.12.151,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.151,24,255.255.255.0
+10.10.12.152,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.152,24,255.255.255.0
+10.10.12.153,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.153,24,255.255.255.0
+10.10.12.154,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.154,24,255.255.255.0
+10.10.12.155,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.155,24,255.255.255.0
+10.10.12.156,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.156,24,255.255.255.0
+10.10.12.157,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.157,24,255.255.255.0
+10.10.12.158,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.158,24,255.255.255.0
+10.10.12.159,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.159,24,255.255.255.0
+10.10.12.160,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.160,24,255.255.255.0
+10.10.12.161,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.161,24,255.255.255.0
+10.10.12.162,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.162,24,255.255.255.0
+10.10.12.163,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.163,24,255.255.255.0
+10.10.12.164,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.164,24,255.255.255.0
+10.10.12.165,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.165,24,255.255.255.0
+10.10.12.166,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.166,24,255.255.255.0
+10.10.12.167,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.167,24,255.255.255.0
+10.10.12.168,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.168,24,255.255.255.0
+10.10.12.169,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.169,24,255.255.255.0
+10.10.12.170,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.170,24,255.255.255.0
+10.10.12.171,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.171,24,255.255.255.0
+10.10.12.172,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.172,24,255.255.255.0
+10.10.12.173,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.173,24,255.255.255.0
+10.10.12.174,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.174,24,255.255.255.0
+10.10.12.175,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.175,24,255.255.255.0
+10.10.12.176,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.176,24,255.255.255.0
+10.10.12.177,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.177,24,255.255.255.0
+10.10.12.178,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.178,24,255.255.255.0
+10.10.12.179,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.179,24,255.255.255.0
+10.10.12.180,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.180,24,255.255.255.0
+10.10.12.181,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.181,24,255.255.255.0
+10.10.12.182,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.182,24,255.255.255.0
+10.10.12.183,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.183,24,255.255.255.0
+10.10.12.184,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.184,24,255.255.255.0
+10.10.12.185,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.185,24,255.255.255.0
+10.10.12.186,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.186,24,255.255.255.0
+10.10.12.187,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.187,24,255.255.255.0
+10.10.12.188,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.188,24,255.255.255.0
+10.10.12.189,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.189,24,255.255.255.0
+10.10.12.190,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.190,24,255.255.255.0
+10.10.12.191,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.191,24,255.255.255.0
+10.10.12.192,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.192,24,255.255.255.0
+10.10.12.193,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.193,24,255.255.255.0
+10.10.12.194,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.194,24,255.255.255.0
+10.10.12.195,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.195,24,255.255.255.0
+10.10.12.196,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.196,24,255.255.255.0
+10.10.12.197,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.197,24,255.255.255.0
+10.10.12.198,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.198,24,255.255.255.0
+10.10.12.199,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.199,24,255.255.255.0
+10.10.12.200,B8-97-5A-2A-DD-5B,,DVD-Scribe2.sifbaksh.com,,,,,BIOSTAR Microtech Int'l Corp.,,,,,5/23/17 18:00,Used,,Dynamic,No,,5/23/17 12:37,,CO-9thFlr-DATA-101,10.10.12.200,24,255.255.255.0
+10.10.12.201,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.201,24,255.255.255.0
+10.10.12.202,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.202,24,255.255.255.0
+10.10.12.203,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.203,24,255.255.255.0
+10.10.12.204,D4-3D-7E-30-B9-B5,,AT-7489.sifbaksh.com,,,,,"Micro-Star Int'l Co, Ltd",,,,,8/17/17 23:42,Used,,Dynamic,No,,8/17/17 10:20,,CO-9thFlr-DATA-101,10.10.12.204,24,255.255.255.0
+10.10.12.205,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.205,24,255.255.255.0
+10.10.12.206,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.206,24,255.255.255.0
+10.10.12.207,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.207,24,255.255.255.0
+10.10.12.208,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.208,24,255.255.255.0
+10.10.12.209,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.209,24,255.255.255.0
+10.10.12.210,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.210,24,255.255.255.0
+10.10.12.211,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.211,24,255.255.255.0
+10.10.12.212,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.212,24,255.255.255.0
+10.10.12.213,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.213,24,255.255.255.0
+10.10.12.214,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.214,24,255.255.255.0
+10.10.12.215,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.215,24,255.255.255.0
+10.10.12.216,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.216,24,255.255.255.0
+10.10.12.217,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.217,24,255.255.255.0
+10.10.12.218,FC-4D-D4-41-74-B2,,AT7799.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,5/10/17 13:03,Used,,Dynamic,No,,5/10/17 12:18,,CO-9thFlr-DATA-101,10.10.12.218,24,255.255.255.0
+10.10.12.219,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.219,24,255.255.255.0
+10.10.12.220,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.220,24,255.255.255.0
+10.10.12.221,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.221,24,255.255.255.0
+10.10.12.222,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.222,24,255.255.255.0
+10.10.12.223,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.223,24,255.255.255.0
+10.10.12.224,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.224,24,255.255.255.0
+10.10.12.225,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.225,24,255.255.255.0
+10.10.12.226,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.226,24,255.255.255.0
+10.10.12.227,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.227,24,255.255.255.0
+10.10.12.228,FC-4D-D4-41-72-C0,,AT-7788.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,6/23/17 12:35,Used,,Dynamic,No,,6/23/17 7:49,,CO-9thFlr-DATA-101,10.10.12.228,24,255.255.255.0
+10.10.12.229,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.229,24,255.255.255.0
+10.10.12.230,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.230,24,255.255.255.0
+10.10.12.231,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.231,24,255.255.255.0
+10.10.12.232,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.232,24,255.255.255.0
+10.10.12.233,FC-4D-D4-41-93-99,,AT7809.sifbaksh.com,,,,,"Universal Global Scientific Industrial Co., Ltd.",,,,,12/18/18 11:25,Used,,Dynamic,No,,12/18/18 13:37,,CO-9thFlr-DATA-101,10.10.12.233,24,255.255.255.0
+10.10.12.234,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.234,24,255.255.255.0
+10.10.12.235,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.235,24,255.255.255.0
+10.10.12.236,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.236,24,255.255.255.0
+10.10.12.237,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.237,24,255.255.255.0
+10.10.12.238,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.238,24,255.255.255.0
+10.10.12.239,,,,,,,,,,,,,,Available,,Dynamic,No,,,,CO-9thFlr-DATA-101,10.10.12.239,24,255.255.255.0
+10.10.12.240,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.240,24,255.255.255.0
+10.10.12.241,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.241,24,255.255.255.0
+10.10.12.242,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.242,24,255.255.255.0
+10.10.12.243,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.243,24,255.255.255.0
+10.10.12.244,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.244,24,255.255.255.0
+10.10.12.245,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.245,24,255.255.255.0
+10.10.12.246,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.246,24,255.255.255.0
+10.10.12.247,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.247,24,255.255.255.0
+10.10.12.248,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.248,24,255.255.255.0
+10.10.12.249,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.249,24,255.255.255.0
+10.10.12.250,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.250,24,255.255.255.0
+10.10.12.251,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.251,24,255.255.255.0
+10.10.12.252,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.252,24,255.255.255.0
+10.10.12.253,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.253,24,255.255.255.0
+10.10.12.254,,,,,,,,,,,,,,Available,,Static,No,,,,CO-9thFlr-DATA-101,10.10.12.254,24,255.255.255.0
+10.10.12.255,,,,,,,,,,Broadcast Address,,,,Reserved,,Static,Yes,,,,CO-9thFlr-DATA-101,10.10.12.255,24,255.255.255.0
