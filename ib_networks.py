@@ -1,10 +1,19 @@
+#!/usr/local/bin/python3
+# -*- coding: utf-8 -*-
+
+__author__ = "Sif Baksh"
+__version__ = "1.0.0"
+__website__ = "sifbaksh.com"
+__twitter__ = "@sifbaksh"
+
 import csv
 import os
 from itertools import islice
 
+# Make sure to use the absolut path to where the exports are located
 directory = '/Users/sbaksh/Dropbox/CCS_Perl_Scripts/DDI/ipam_solar_winds/networks'
 
-file = open("testfile.out","w")
+file = open("infoblox-import.out","w")
 
 print("[+] Starting to parsing data...")
 
